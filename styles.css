@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(45deg, #7d6fff, #7148e2);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.search{
+    margin: auto;
+    text-align: center;
+    margin-top: 40vh;
+    margin-bottom: 40vh;
+
+
+}
+.searchBox{
+    visibility: hidden;
+}
+.active{
+    visibility: visible;
+
+}
+
+.glass{
+    display: inline;
+}
